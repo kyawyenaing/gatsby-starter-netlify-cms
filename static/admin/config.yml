@@ -1,7 +1,9 @@
+# backend:
+#   name: git-gateway
+#   branch: master
 backend:
-  name: git-gateway
-  branch: master
-
+  name: github
+  repo: kyawyenaing/gatsby-starter-netlify-cms
 media_folder: static/img
 public_folder: /img
 
